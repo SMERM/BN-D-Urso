@@ -1,0 +1,29 @@
+# YAML Ain't Markup Language
+
+object_1:
+  name: ""
+  category: ["ciccio", "2", 3]         #esempio di lista (le liste possono essere eterogenee)
+  duration:
+  recordingdate: 2020-06-03     #ISO8601
+  geomark: VFHG+6M Rome, Metropolitan City of Rome
+  description:       #render all of this text as a single line
+    hahahahahhsjdkalkhfljasfgl
+    jsdfvjl
+    flsdgafljhasdgfljhgsdfjhag
+
+friends:                       #how to do the list item
+  - name: "Steph"
+  - age: 22
+
+panorami:
+  - monte_cicoria:
+     name: Montagna della Cicoria
+     posizionamento: dilla
+     altitudine: 36
+  - montagna_der_sapone:
+     name: Montagna der Sapone
+     posizionamento: dilla
+     altitudine: 36
+     descrizione: > # descrizione
+       ciaociaociao
+       bambina
