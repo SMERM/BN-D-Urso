@@ -1,0 +1,46 @@
+# YAML Ain't Markup Language
+
+object_Gioi_1:
+  name: "Cartolina3_Gioi_CastelloPasseggiata020320_003_Cardioid"
+  category: ["paesaggi", "intervento_antropico", "uccelli", "acqua", "passeggiata", "mosche"]        #esempio di lista (le liste possono essere eterogenee)
+  duration: 24s                 #come indico i minuti e i secondi?
+  recordingdate: 2020-03-02     #ISO8601
+  recording microphone: Warm audio 47jr
+  pattern: Cardioid
+  sample rate: 44.100
+  tecnique:
+  geomark: VFHG+6M Rome, Metropolitan City of Rome #studiare come creare un geomark, non ci sono arrivato
+  posizionamento:
+  altitudine:
+  description: >      #render all of this text as a single line
+    Passeggiata nel parco posizionato nella parte più alta del paese. Località Castello.
+
+object_Gioi_2:
+  name: "Gioi_Castellofontana020320_001_Cardioid"
+  category: ["particolare", "intervento_antropico", "uccelli", "acqua", "mosche"]        #esempio di lista (le liste possono essere eterogenee)
+  duration: 3:16                #come indico i minuti e i secondi?
+  recordingdate: 2020-03-02     #ISO8601
+  recording microphone: Warm audio 47jr
+  pattern: Cardioid
+  sample rate: 44.100
+  tecnique:
+  geomark: VFHG+6M Rome, Metropolitan City of Rome #studiare come creare un geomark, non ci sono arrivato
+  posizionamento:
+  altitudine:
+  description: >
+    Particolare della piccola fontana posizionata nella parte più alta del paese. Località Castello.
+
+object_Gioi_3:
+  name: "Gioi_Castellofontana020320_002_Cardioid"
+  category: ["particolare", "intervento_antropico", "uccelli", "acqua", "mosche"]        #esempio di lista (le liste possono essere eterogenee)
+  duration: 1:31                #come indico i minuti e i secondi?
+  recordingdate: 2020-03-02     #ISO8601
+  recording microphone: Warm audio 47jr
+  pattern: Cardioid
+  sample rate: 44.100
+  tecnique:
+  geomark: VFHG+6M Rome, Metropolitan City of Rome #studiare come creare un geomark, non ci sono arrivato
+  posizionamento:
+  altitudine:
+  description: >
+    Particolare della piccola fontana posizionata nella parte più alta del paese. Località Castello.
